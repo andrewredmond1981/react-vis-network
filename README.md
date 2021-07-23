@@ -196,3 +196,5 @@ In order to help you roll your own lifecycle methods, the internal converter for
 The `Network` component has, as instance properties, `network` (a vis.js network), `edges` (a vis.js Dataset representing it's edges), and `nodes` a vis.js Dataset representing it's nodes).
 
 You can access these by [creating a `ref`](https://reactjs.org/docs/react-api.html#reactcreateref) to the mounted `Network`.
+  
+  test
